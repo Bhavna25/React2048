@@ -1,7 +1,7 @@
 .board-box {
   width: 50px;
   height: 50px;
-  background-color: rgb(22, 180, 180);
+  background-color: rgb(69, 119, 119);
   border: 1px black solid;
   margin: 1px;
   border-radius: 5px;
@@ -29,7 +29,7 @@ h1 {
 }
 
 .board-box-high {
-  background-color: rgb(80, 194, 137);
+  background-color: rgb(221, 71, 78);
 }
 .score {
   margin: 40px auto;
