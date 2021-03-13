@@ -1,1 +1,1 @@
-# React2048
+# boilerplate-react-functional-public
